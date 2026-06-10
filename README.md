@@ -3,7 +3,6 @@
 ## Overview
 Campsite Commander is an Android inventory app designed for outdoor adventure packing management. It allows users to store, categorize, and view camping gear in a structured checklist format.
 
----
 
 ## Features
 - Splash screen with 3-second loading delay
@@ -15,7 +14,6 @@ Campsite Commander is an Android inventory app designed for outdoor adventure pa
 - Exit button for closing the app
 - Dark mode UI with safari/fire theme styling
 
----
 
 ## Technology Used
 - Kotlin
@@ -25,12 +23,10 @@ Campsite Commander is an Android inventory app designed for outdoor adventure pa
 - Parallel arrays
 - Loops
 
----
 
 ## App Flow
 Splash Screen → Main Screen → Detailed View Screen
 
----
 
 ## Data Structure
 The app uses parallel arrays:
@@ -39,10 +35,6 @@ The app uses parallel arrays:
 - Quantities
 - Comments
 
----
-
-
----
 
 ## How it works
 1. App starts with splash screen (3 seconds)
