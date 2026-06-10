@@ -42,3 +42,7 @@ The app uses parallel arrays:
 3. User navigates to checklist view
 4. Detailed screen shows full packing list
 5. User can exit or go back
+
+## Screenshots of UI
+### Splash screen
+![image alt] (https://github.com/MoeketsiNteo/campsiteApp/edit/master/README.md)
