@@ -46,3 +46,10 @@ The app uses parallel arrays:
 ## Screenshots of UI
 ### Splash screen
 ![Splash screen](splash.png)
+
+### Main screen
+![Main](main.pg)
+
+### Detatiled view screen 
+![Detailed](detailed.pg)
+
