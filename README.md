@@ -12,7 +12,7 @@ Campsite Commander is an Android inventory app designed for outdoor adventure pa
 - Detailed checklist view
 - Navigation between screens
 - Exit button for closing the app
-- Dark mode UI with safari/fire theme styling
+- Camp site/safari theme styling
 
 
 ## Technology Used
