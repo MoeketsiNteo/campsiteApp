@@ -48,8 +48,8 @@ The app uses parallel arrays:
 ![Splash screen](splash.png)
 
 ### Main screen
-![Main](main.pg)
+![Main](main.png)
 
 ### Detatiled view screen 
-![Detailed](detailed.pg)
+![Detailed](detailed.png)
 
