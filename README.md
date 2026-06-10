@@ -45,4 +45,4 @@ The app uses parallel arrays:
 
 ## Screenshots of UI
 ### Splash screen
-![Splash screen](https://github.com/MoeketsiNteo/campsiteApp/edit/master/README.md)
+![Splash screen](splash.png)
